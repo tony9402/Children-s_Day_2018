@@ -1,2 +1,3 @@
 # Children-s_Day_2018
-Made Memory Game
+
+2018년 숭실대학교 전자정보공학부 소모임 Robotics에서 어린이날 전시를 위해 멘티와 간단한 메모리 게임을 만들어 보았다.
